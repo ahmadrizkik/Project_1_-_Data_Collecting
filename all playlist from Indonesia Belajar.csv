@@ -1,9 +1,10 @@
 id,title,description,video_total
+PL2O3HdJI4voGnb5Vw7qOAdd9pzllWjQh3,Deploy Amazon Lightsail Containers | Ngoding Bareng AWS,,4
 PL2O3HdJI4voFWT9zTM2wUqHDLt2Ds_3bi,Podcast Blockchain,,4
 PL2O3HdJI4voED2tsGDA2MRjKIhyjhHKNK,Podcast Data,,7
 PL2O3HdJI4voHK5d2Vom-MKQ2IVcxcTLPQ,Belajar Container bersama AWS,,4
 PL2O3HdJI4voEQS7Ka4RxHRAWJz_NIymkz,Belajar Container bersama AWS,,0
-PL2O3HdJI4voFyH616uejhvYt5AQzZ2iTi,Belajar Time Series dengan Google Sheets,,7
+PL2O3HdJI4voFyH616uejhvYt5AQzZ2iTi,Belajar Time Series dengan Google Sheets,,8
 PL2O3HdJI4voH_ZLHPU3Lr6oHLMwSYwJAE,Belajar Cloud Computing Dasar,,5
 PL2O3HdJI4voGrjBRv41ONT-eU391zXJUb,Kustomisasi Desktop Environment,,4
 PL2O3HdJI4voFv4rLFFDKPY23yWV4ZIzrv,Belajar Cloud Computing bersama AWS,,15
@@ -18,7 +19,7 @@ Topik bahasan:
 
 keywords:
 - Data Science Indonesia",97
-PL2O3HdJI4voFl-qHG0XLSrPAS6JRmRIDp,Catatan Seorang Dosen,,15
+PL2O3HdJI4voFl-qHG0XLSrPAS6JRmRIDp,Catatan Seorang Dosen,,18
 PL2O3HdJI4voHNEv59SdXKRQVRZAFmwN9E,Tutorial Belajar Machine Learning Dasar | Python Scikit-Learn,"Materi dalam seri pembelajaran ini kami susun sedemikian rupa agar mudah diikuti, dan selalu kami awali dengan materi yang sifatnya mendasar terlebih dahulu. Kami berharap materi pembelajaran Machine Learning Dasar ini dapat bermanfaat dan membantu proses belajar kalian.
 
 Scikit-Learn merupakan module dalam pemrograman Python yang memfasilitasi kita untuk mengerjakan berbagai machine learning project. Awalnya Scikit-Learn ini digarap sebagai bagian dari Google Summer of Code projec pada tahun 2007. Istilah Scikit sendiri merupakan kependekan dari SciPy Toolkits; karena memang project ini diperuntukkan sebagai extension untuk SciPy yang merupakan Scientific module dalam pemrograman python. Code base dari project ini lalu ditulis ulang dan mulai dibentuk tim khusus untuk mengembangkan project ini dengan lebih serius. Di awal tahun 2010, project Scikit-Learn ini dirilis ke publik dan berhasil menarik banyak contributor yang akhirnya menjadikan project ini terus berkembang sampai saat ini. Bahkan di tahun 2012, Scikit-Learn dikenal sebagai machine learning library yang paling populer dan well maintained.
@@ -131,7 +132,7 @@ Beberapa distro Linux yang diulas adalah:
 - Xubuntu
 - Lubuntu
 - Ubuntu MATE
-- Ubuntu Budgie",37
+- Ubuntu Budgie",39
 PL2O3HdJI4voFg4lxW_HB-8TesRyWAyt50,"OrbIT: Obrolan IT, Ajang Diskusi Seputar Topik IT",,5
 PL2O3HdJI4voGGHElHBhJJF3J-JsjEuXPi,Belajar Cybersecurity Bersama Pak Semi,,53
 PL2O3HdJI4voEsHWeKb1pIn3KTDb2bbIeq,Tutorial Belajar Data Science dengan Studi Kasus Kaggle,,5
